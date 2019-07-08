@@ -1,0 +1,30 @@
+1. Crear la clase Persona con los atributos: nombre, apellido, edad y sexo y 
+los métodos, dormir, comer, caminar y correr. En cada método imprimir un mensaje 
+con la acción que se esta realizando.
+
+2. Crear una clase Calculadora con los métodos sumar, restar, multipricar y 
+dividir que reciba dos parámetros enteros y retorne el resultado 
+(utilizar la palabra reservada return).
+
+3. Sobrecargar los métodos sumar, restar y multiplicar de la clase del 
+ejercicio 2 para que reciba tres y cuatro parámetros enteros.
+
+4. Crear la clase ManejaCadenas que contenga:
+
+a. Un método llamado reverso: que reciba un String y que retorne 
+el String en reverso. Ej: ave devuelve eva
+
+b. Un método llamado eliminaVocales que reciba un String y que 
+retorne otro String con la misma cadena pero sin vocales.
+
+c. Un método llamado cuentaVocales que reciba un String y retorne 
+un entero con la cantidad de vocales que tiene el String pasado por parámetro.
+
+d. Un método llamado cuentaConsonantes que reciba un String y retorne un entero 
+con la cantidad de consonantes que tiene el String pasado por parámetro.
+
+e. Un método llamado cuentaPalabras que reciba un String y 
+retorne un entero con la cantidad de palabras.
+
+5. Realizar la clase Test con un método main van a crear cada instancia de 
+cada una de las clases y van a probar cada uno de los métodos. 

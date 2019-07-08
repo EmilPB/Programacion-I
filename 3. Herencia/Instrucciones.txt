@@ -1,0 +1,8 @@
+﻿- Crear una clase que herede al menos 4 propiedades y 4 métodos de una super clase. (DONE)
+
+- Imprimir el nombre de la clase en el constructor (en ambas clases). (DONE)
+
+- Sobre escribir 2 métodos. Utilizar super en un método. (DONE)
+
+- Encapsular ambas clases (Getters y Setters) (DONE)
+
